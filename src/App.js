@@ -1,7 +1,8 @@
 import React from 'react'
+import { Fragment } from 'react'
 
 const App = () => {
-  return <></>
+  return <Fragment></Fragment>
 }
 
 export default App
